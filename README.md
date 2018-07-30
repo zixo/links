@@ -9,3 +9,5 @@
 ## k8s
 * [https://blog.hasura.io/gke-vs-aks-vs-eks-411f080640dc] GKE vs AKS vs EKS
 * [https://github.com/cloudnativelabs/kube-router] kube-router
+* [https://github.com/kubernetes/kops] kops - The easiest way to get a production grade Kubernetes cluster up and running. AKS GCE DO
+* [https://github.com/kubernetes-incubator/kubespray] - Kargo - Baremetal deploy k8s - production ready
