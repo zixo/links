@@ -11,3 +11,11 @@
 * [https://github.com/cloudnativelabs/kube-router] kube-router
 * [https://github.com/kubernetes/kops] kops - The easiest way to get a production grade Kubernetes cluster up and running. AKS GCE DO
 * [https://github.com/kubernetes-incubator/kubespray] - Kargo - Baremetal deploy k8s - production ready
+* [https://blog.inkubate.io/deploy-kubernetes-1-9-from-scratch-on-vmware-vsphere/] - deploy k8s on vmware vsphere
+* [https://blog.ptrk.io/how-to-deploy-an-efk-stack-to-kubernetes/] - EFK!
+## Azure
+* [https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/aks/http-application-routing.md] - azure ingress addon for k8s
+
+
+## dev-tools
+* [https://github.com/ChromeDevTools/awesome-chrome-devtools] devtools - chrome list of tools
