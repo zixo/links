@@ -6,13 +6,11 @@
 ## docker
 * [https://medium.com/@mccode/understanding-how-uid-and-gid-work-in-docker-containers-c37a01d01cf] docker uid/gid explained
 * [https://platform9.com/blog/kubernetes-docker-swarm-compared/] Kubernetes vs. Swarm
-<<<<<<< HEAD
 ## Ops
 * [https://launchpad.net/apt-btrfs-snapshot/+packages] Snapshot your apt
 ## Sec
 ### Vuln Scan
 * [https://vulners.com/products] Vulnerability scanning - NSE
-=======
 ## k8s
 * [https://blog.hasura.io/gke-vs-aks-vs-eks-411f080640dc] GKE vs AKS vs EKS
 * [https://github.com/cloudnativelabs/kube-router] kube-router
