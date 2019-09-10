@@ -6,3 +6,8 @@
 ## docker
 * [https://medium.com/@mccode/understanding-how-uid-and-gid-work-in-docker-containers-c37a01d01cf] docker uid/gid explained
 * [https://platform9.com/blog/kubernetes-docker-swarm-compared/] Kubernetes vs. Swarm
+## Ops
+* [https://launchpad.net/apt-btrfs-snapshot/+packages] Snapshot your apt
+## Sec
+### Vuln Scan
+* [https://vulners.com/products] Vulnerability scanning - NSE
