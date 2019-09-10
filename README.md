@@ -26,4 +26,3 @@
 * [https://github.com/ChromeDevTools/awesome-chrome-devtools] devtools - chrome list of tools
 * [https://medium.com/@dschnr/using-headless-chrome-as-an-automated-screenshot-tool-4b07dffba79a] how to automate ChromeDevTools
 * [https://www.root.cz/clanky/chrome-umi-z-prikazove-radky-poridit-screenshot-nebo-pdf/] introduction in cz language - chrome headless
->>>>>>> be7584f8821274717daaa1f451c9a66fbc71f7ec
