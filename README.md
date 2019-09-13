@@ -11,6 +11,9 @@
 ## Sec
 ### Vuln Scan
 * [https://vulners.com/products] Vulnerability scanning - NSE
+### Nmap
+* [https://github.com/vulnersCom/nmap-vulners]
+* [https://github.com/scipag/vulscan]
 ## k8s
 * [https://blog.hasura.io/gke-vs-aks-vs-eks-411f080640dc] GKE vs AKS vs EKS
 * [https://github.com/cloudnativelabs/kube-router] kube-router
